@@ -120,21 +120,47 @@ Hands-on DevOps, automation and full-stack projects. Every link goes to a public
 
 ## 📊 My Github Stats
 
+<h3 align="center">【 S t a t s 】</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wasim0028&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=wasim0028&hide_border=true&border_radius=10&background=050B0B&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=9AA0A6" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wasim0028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim0028&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/wasim0028?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=2CE6A0&labelColor=010D2A&color=0075CA" />
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=wasim0028&show_icons=true&count_private=true&bg_color=010D2A&title_color=00A8FF&text_color=FFFFFF&icon_color=2CE6A0&ring_color=00A8FF&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim0028&layout=compact&bg_color=010D2A&title_color=00A8FF&text_color=FFFFFF&icon_color=2CE6A0&ring_color=00A8FF&hide_border=true" />
 </p>
 
 <details open>
 <summary>📈 More Stats</summary>
 <br/>
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasim0028&theme=ocean_dark" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasim0028&theme=ocean_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasim0028&theme=ocean_dark&utcOffset=5.5" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasim0028&theme=ocean_dark" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasim0028&bg_color=000C2B&color=58A6FF&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true&custom_title=Md%20Wasim%20Akram%27s%20Contribution%20Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wasim0028&theme=onedark&no-frame=true&no-bg=false&row=2&column=4&margin-w=12&margin-h=12" />
+</p>
+
 </details>
 
 <p align="center">
