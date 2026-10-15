@@ -75,43 +75,43 @@ $ _
 
 ### Featured Projects
 
-Hands-on DevOps, automation and full-stack projects. Every link goes to a public repository.
+Production-style cloud and full-stack projects: Terraform, EKS, GitOps and CI/CD. Every link goes to a public repository.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/ElectionPulse-WB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=ElectionPulse-WB&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/ElectionPulse-WB">ElectionPulse-WB</a></b><br/>
+      <sub>Streamlined deployment of React, ASP.NET Core and Python workloads on AWS EKS. Infrastructure as Code with Terraform (VPC, EKS, RDS, ECR), secure private networking and GitOps via ArgoCD.</sub><br/>
+      <sub><code>AWS EKS · Terraform · ArgoCD · React · ASP.NET Core · Python</code></sub>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/yt-viewer-tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=yt-viewer-tracker&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/docker-ansible-role">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=docker-ansible-role&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/ansible-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=ansible-zero-to-hero&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/yt-viewer-tracker">yt-viewer-tracker</a></b><br/>
+      <sub>Live YouTube viewer tracker (React + Node.js + PostgreSQL) on AWS EKS Fargate. Modular Terraform, ArgoCD GitOps, External Secrets and a GitHub Actions CI/CD pipeline.</sub><br/>
+      <sub><code>EKS Fargate · Terraform · ArgoCD · External Secrets · GitHub Actions</code></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/aws-devops-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=aws-devops-zero-to-hero&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/EstateHub">EstateHub</a></b><br/>
+      <sub>Production-ready property marketplace: Next.js 14 RSC + Django REST, JWT in httpOnly cookies, Razorpay payments with HMAC webhook verification, S3 media and a role-based agent dashboard.</sub><br/>
+      <sub><code>Next.js · Django REST · Razorpay · AWS S3</code></sub>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/wasim0028/EvoGym">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wasim0028&repo=EvoGym&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/EvoGym">EvoGym</a></b><br/>
+      <sub>Full-stack gym membership platform: React + TypeScript frontend, Express/Prisma API with JWT auth and Razorpay payments, deployed to AWS EKS Fargate via Terraform, GitHub Actions and Argo CD.</sub><br/>
+      <sub><code>React · TypeScript · Prisma · EKS Fargate · Terraform · Argo CD</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/foodex">foodex</a></b><br/>
+      <sub>Full-stack MERN food delivery platform built as three services on one shared API: customer storefront, admin dashboard with revenue charts and a Node/Express API. Razorpay UPI and Cash on Delivery.</sub><br/>
+      <sub><code>MongoDB · Express · React · Node.js</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/wasim0028/ad-agency">ad-agency</a></b><br/>
+      <sub>Event management, digital marketing and creative production, booked, tracked and paid for from a single dashboard. One place for the vendors behind a launch.</sub><br/>
+      <sub><code>JavaScript · Dashboard</code></sub>
     </td>
   </tr>
 </table>
