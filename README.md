@@ -129,14 +129,11 @@ Hands-on DevOps, automation and full-stack projects. Every link goes to a public
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim0028&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<details>
+<details open>
 <summary>📈 More Stats</summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasim0028&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasim0028&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" />
 </p>
 </details>
 
