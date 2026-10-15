@@ -154,11 +154,11 @@ Hands-on DevOps, automation and full-stack projects. Every link goes to a public
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasim0028&bg_color=000C2B&color=58A6FF&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true&custom_title=Md%20Wasim%20Akram%27s%20Contribution%20Graph" />
+  <img src="./profile-cards/contribution-graph.svg" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasim0028&theme=onedark&no-frame=true&no-bg=false&row=2&column=4&margin-w=12&margin-h=12" />
+  <img src="./profile-cards/trophies.svg" alt="Trophies" />
 </p>
 
 </details>
