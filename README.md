@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Wasim Akram - DevOps Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Md Wasim Akram - DevOps Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi! I am Md Wasim Akram</h1>

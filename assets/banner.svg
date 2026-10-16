@@ -51,6 +51,6 @@
 
   <!-- text -->
   <text x="70" y="108" font-size="22" fill="#7DD3FC" letter-spacing="6">DEVOPS ENGINEER</text>
-  <text x="70" y="178" font-size="68" font-weight="800" fill="url(#title)">Wasim Akram</text>
+  <text x="70" y="178" font-size="62" font-weight="800" fill="url(#title)">Md Wasim Akram</text>
   <text x="70" y="214" font-size="20" fill="#BFDBFE">Kubernetes · Terraform · ArgoCD · CI/CD · AWS</text>
   </svg>
