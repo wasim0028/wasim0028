@@ -72,7 +72,7 @@ $ _
 
 <p align="center">
   <a href="https://wasim0028.github.io">Portfolio</a> ·
-  <a href="mailto:wasimakram0028@gmail.com">Email</a> ·
+  <a href="mailto:wasim0039akram@gmail.com">Email</a> ·
   <a href="https://github.com/wasim0028">GitHub</a>
 </p>
 
