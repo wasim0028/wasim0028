@@ -31,18 +31,18 @@
 <h2 align="center">A b o u t &nbsp; M e</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+on+AWS;Docker+%26+Ansible+Automation;CI%2FCD+with+GitHub+Actions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Kubernetes+%26+GitOps+on+AWS+EKS;Terraform+Infrastructure+as+Code;CI%2FCD+with+GitHub+Actions+%26+Argo+CD" />
 </p>
 
-I build and automate **cloud infrastructure and delivery pipelines** that teams can deploy and trust. I also build full-stack applications with React, Node.js and TypeScript.
+I build and automate **secure, production-ready AWS platforms**: infrastructure as code, Kubernetes, GitOps and CI/CD pipelines that teams can deploy and trust. I also build full-stack applications with React, Node.js and TypeScript.
 
-- **Cloud infrastructure** — deploy applications on AWS (Elastic Beanstalk, SNS)
-- **Containers** — package and run services with Docker and Docker Compose
-- **Configuration management** — automate setups with reusable Ansible roles
-- **CI/CD** — build and ship with GitHub Actions
+- **Infrastructure as Code** — modular Terraform (VPC, EKS, RDS, ECR, IAM/OIDC, Secrets Manager) with remote S3 state and locking
+- **Kubernetes & GitOps** — run workloads on EKS and EKS Fargate, delivered with Argo CD and External Secrets
+- **CI/CD & DevSecOps** — GitHub Actions with OIDC (no stored AWS keys), Trivy scans and SAST quality gates
+- **Cloud** — AWS (EKS, ECS Fargate, RDS, ECR, IAM, S3, CloudWatch, SNS) with blue/green releases via CodeDeploy
+- **Observability** — Prometheus, Grafana and CloudWatch alerting
+- **Containers & configuration** — Docker, Docker Compose and reusable Ansible roles
 - **Full-stack** — React, Node.js, TypeScript and MongoDB projects
-- **Kubernetes & GitOps**: run workloads on EKS and EKS Fargate, delivered with Argo CD and External Secrets
-- **Infrastructure as Code**: modular Terraform (VPC, EKS, RDS, ECR, IAM/OIDC) with remote state and locking
 
 ```console
 $ ls
@@ -50,20 +50,23 @@ about_me.txt     devops.sh     aws.yml
 
 $ cat about_me.txt
 # ABOUT ME
-Containers and Automation
-  Docker · Docker Compose · Ansible roles · distroless images
-
-CI/CD and Delivery
-  GitHub Actions · AWS Elastic Beanstalk · Git workflows
-
-Full-Stack Development
-  React · Node.js · TypeScript · MongoDB · Express
+Infrastructure as Code
+  Terraform modules · remote state · OIDC · IRSA
 
 Kubernetes and GitOps
   EKS · EKS Fargate · Argo CD · External Secrets · Helm
 
-Infrastructure as Code
-  Terraform modules · remote state · OIDC · IRSA
+CI/CD and DevSecOps
+  GitHub Actions · CodeDeploy blue/green · Trivy · SAST
+
+Observability
+  Prometheus · Grafana · CloudWatch · SNS alerts
+
+Containers and Automation
+  Docker · Docker Compose · Ansible roles · distroless images
+
+Full-Stack Development
+  React · Node.js · TypeScript · MongoDB · Express
 $ _
 ```
 
@@ -81,48 +84,36 @@ $ _
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,linux,bash,git,github,nginx,python,nodejs,react,ts,js,mongodb,express,html,css,vscode,postman,ubuntu&perline=12" />
 </p>
 
-### Featured Projects
+### Featured DevOps Projects
 
-Production-style cloud and full-stack projects: Terraform, EKS, GitOps and CI/CD. Every link goes to a public repository.
+Production-style AWS projects: Terraform, EKS, GitOps and CI/CD. Every link goes to a public repository.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/wasim0028/yt-viewer-tracker">yt-viewer-tracker</a></b><br/>
+      <sub>Live YouTube viewer tracker (React + Node.js + PostgreSQL) on AWS EKS Fargate. 8 modular Terraform modules with remote state, Argo CD GitOps, External Secrets, and a GitHub Actions pipeline using OIDC with no stored AWS keys.</sub><br/>
+      <sub><code>EKS Fargate · Terraform · ArgoCD · External Secrets · GitHub Actions · Trivy</code></sub>
+    </td>
+    <td width="33%" valign="top">
       <b><a href="https://github.com/wasim0028/ElectionPulse-WB">ElectionPulse-WB</a></b><br/>
-      <sub>Streamlined deployment of React, ASP.NET Core and Python workloads on AWS EKS. Infrastructure as Code with Terraform (VPC, EKS, RDS, ECR), secure private networking and GitOps via ArgoCD.</sub><br/>
+      <sub>React, ASP.NET Core and Python workloads on AWS EKS. Infrastructure as Code with Terraform (VPC, EKS, RDS, ECR), custom node group launch templates, least-privilege IAM via OIDC and IRSA, and GitOps via Argo CD.</sub><br/>
       <sub><code>AWS EKS · Terraform · ArgoCD · React · ASP.NET Core · Python</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/wasim0028/yt-viewer-tracker">yt-viewer-tracker</a></b><br/>
-      <sub>Live YouTube viewer tracker (React + Node.js + PostgreSQL) on AWS EKS Fargate. Modular Terraform, ArgoCD GitOps, External Secrets and a GitHub Actions CI/CD pipeline.</sub><br/>
-      <sub><code>EKS Fargate · Terraform · ArgoCD · External Secrets · GitHub Actions</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/wasim0028/EstateHub">EstateHub</a></b><br/>
-      <sub>Production-ready property marketplace: Next.js 14 RSC + Django REST, JWT in httpOnly cookies, Razorpay payments with HMAC webhook verification, S3 media and a role-based agent dashboard.</sub><br/>
-      <sub><code>Next.js · Django REST · Razorpay · AWS S3</code></sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b><a href="https://github.com/wasim0028/EvoGym">EvoGym</a></b><br/>
-      <sub>Full-stack gym membership platform: React + TypeScript frontend, Express/Prisma API with JWT auth and Razorpay payments, deployed to AWS EKS Fargate via Terraform, GitHub Actions and Argo CD.</sub><br/>
+      <sub>Full-stack gym membership platform (React + TypeScript, Express/Prisma) deployed to AWS EKS Fargate via Terraform, GitHub Actions and Argo CD.</sub><br/>
       <sub><code>React · TypeScript · Prisma · EKS Fargate · Terraform · Argo CD</code></sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/wasim0028/foodex">foodex</a></b><br/>
-      <sub>Full-stack MERN food delivery platform built as three services on one shared API: customer storefront, admin dashboard with revenue charts and a Node/Express API. Razorpay UPI and Cash on Delivery.</sub><br/>
-      <sub><code>MongoDB · Express · React · Node.js</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/wasim0028/ad-agency">ad-agency</a></b><br/>
-      <sub>Event management, digital marketing and creative production, booked, tracked and paid for from a single dashboard. One place for the vendors behind a launch.</sub><br/>
-      <sub><code>JavaScript · Dashboard</code></sub>
-    </td>
-  </tr>
 </table>
+
+### Application Projects
+
+Other full-stack projects I have built:
+[EstateHub](https://github.com/wasim0028/EstateHub) (Next.js + Django REST, Razorpay, S3) ·
+[foodex](https://github.com/wasim0028/foodex) (MERN food delivery) ·
+[ad-agency](https://github.com/wasim0028/ad-agency) (event and marketing dashboard)
 
 ---
 
