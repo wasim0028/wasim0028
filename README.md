@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi! I am Md Wasim Akram</h1>
 
-<p align="center"><b>DevOps Engineer | Cloud Infrastructure | Docker | Ansible | CI/CD Automation</b></p>
+<p align="center"><b>DevOps Engineer | AWS | Kubernetes | Terraform | GitOps | Cloud Infrastructure | Docker | CI/CD Automation</b></p>
 
 <p align="center">
-  <a href="mailto:wasimakram0028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:wasim0039akram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/wasim0028"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://github.com/wasim0028?tab=followers"><img src="https://img.shields.io/github/followers/wasim0028?label=Followers&style=flat&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=wasim0028&label=Profile%20views&color=0e75b6&style=flat" />
@@ -41,7 +41,8 @@ I build and automate **cloud infrastructure and delivery pipelines** that teams 
 - **Configuration management** — automate setups with reusable Ansible roles
 - **CI/CD** — build and ship with GitHub Actions
 - **Full-stack** — React, Node.js, TypeScript and MongoDB projects
-- **Learning** — Kubernetes, Terraform and GitOps
+- **Kubernetes & GitOps**: run workloads on EKS and EKS Fargate, delivered with Argo CD and External Secrets
+- **Infrastructure as Code**: modular Terraform (VPC, EKS, RDS, ECR, IAM/OIDC) with remote state and locking
 
 ```console
 $ ls
@@ -58,8 +59,11 @@ CI/CD and Delivery
 Full-Stack Development
   React · Node.js · TypeScript · MongoDB · Express
 
-Currently Learning
-  Kubernetes · Terraform · GitOps
+Kubernetes and GitOps
+  EKS · EKS Fargate · Argo CD · External Secrets · Helm
+
+Infrastructure as Code
+  Terraform modules · remote state · OIDC · IRSA
 $ _
 ```
 
